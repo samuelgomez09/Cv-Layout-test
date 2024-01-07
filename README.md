@@ -11,7 +11,7 @@ This repository showcases an innovative approach to CV design, focusing on exper
 - **Interactive Elements:** Incorporates subtle interactive elements for a modern user experience.
 - **Easy Customization:** Codebase structured for straightforward personalization.
 
- **Note**
+ ##Note
 
  This project is still a work in progress, and certain features are not finalized. At the moment, the responsive design has been tailored primarily for regular laptops and tablets.
   
