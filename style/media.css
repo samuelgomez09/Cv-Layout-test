@@ -1,0 +1,35 @@
+@media (max-width: 44em) {
+  html {
+    font-size: 50%;
+  }
+  .container {
+    grid-template-columns: 1fr;
+  }
+
+  .card {
+    justify-content: start;
+    width: 50rem;
+  }
+
+  .card-wrap {
+    flex-direction: column;
+    padding: 0 10rem;
+  }
+
+  .blog {
+    grid-column: 1;
+    margin-bottom: 64rem;
+  }
+  .hobbies {
+    grid-column: 1;
+  }
+  .experiences {
+    grid-column: 1;
+  }
+
+  body::before {
+    top: 0.8%;
+    right: -10%;
+    font-size: 1.8rem;
+  }
+}
