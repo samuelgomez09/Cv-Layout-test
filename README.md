@@ -1,4 +1,4 @@
-Experimental Curriculum Vitae (CV) Layout project!
+Experimental Curriculum Vitae (CV) Layout project.
 
 ## Overview
 
