@@ -44,9 +44,9 @@ body {
   padding: 3.2rem;
 }
 
-.engineer-picture {
-  max-width: 25rem;
-  max-height: 50rem;
+.my-picture {
+  width: 25rem;
+ height: 50rem;
   border-radius: 9px;
 }
 
@@ -112,11 +112,6 @@ body::before {
   transform: rotate(32deg);
 }
 
-.skill-title {
-}
-
-.skill-bars {
-}
 
 .skill-bars p {
   font-size: 1.4rem;
@@ -150,7 +145,7 @@ body::before {
 }
 
 .img-blog {
-  max-width: 100%;
+ width: 100%;
   border-top-right-radius: 0.9rem;
   border-top-left-radius: 0.9rem;
 }
@@ -178,8 +173,8 @@ body::before {
 
 .hobbie-img {
   align-self: center;
-  max-width: 100%;
-  max-height: auto;
+  width: 100%;
+  height: auto;
   border-radius: 1.2rem;
 }
 
